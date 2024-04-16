@@ -1,0 +1,14 @@
+*** Notes ***
+
+Max file size 150kb, (html + js + images).
+Max time of duration: 15 seconds 
+
+Use Adobe AnimateCC for the animation. 
+(please name the layers and symbols with descriptive names)
+
+- The animation must stop at the end.
+- The CTA must have RollOver action.
+- The clickTag button should open on http://google.com
+When submitting the evidence you must include:
+- Folder with HTML, JS, image folder
+- Animate source file (.fla)

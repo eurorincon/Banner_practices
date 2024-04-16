@@ -1,0 +1,100 @@
+body {
+  width: 300px;
+  height: 250px;
+  overflow: hidden;
+  /* margin: 20px;
+  background-color: #ada; */
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+  -moz-tap-highlight-color: rgba(0, 0, 0, 0);
+  -moz-tap-highlight-color: transparent;
+}
+
+.preloader,
+.wrapper {
+  overflow: hidden;
+  width: 300px;
+  height: 250px;
+  background: #000;
+}
+
+.step div,
+.step img,
+.step a {
+  display: inline-block;
+  position: absolute;
+}
+#main {
+  background-color: #333;
+  height: 250px;
+  width: 300px;}
+
+
+
+  /* 
+
+.step #main #frame1 {
+  height: 250px;
+  left: 0;
+  top: 0;
+  width: 300px;
+}
+.step #main #frame1 #txt01A {
+  height: 250px;
+  left: 0;
+  top: 0;
+  width: 300px;
+}
+.step #main #frame1 #txt01B {
+  height: 250px;
+  left: 0;
+  top: 0;
+  width: 300px;
+}
+.step #main #frame2 {
+  height: 250px;
+  left: 0;
+  top: 0;
+  width: 300px;
+}
+#frame2 #txt02A {
+  height: 250px;
+  left: 0;z
+  top: 0;
+  width: 300px;
+}
+#frame2 #txt02B {
+  opacity: 0;
+  top: 113px;
+  left: 15px;
+  width: 154px;
+}
+#Finalframe {
+  height: 250px;
+  left: 0;
+  top: 0;
+  width: 300px;
+}
+#Finalframe #img_Logo {
+  opacity: 0;
+  top: 40px;
+  left: 40px;
+  width: 52px;
+}
+#Finalframe #txt_Logo {
+  opacity: 0;
+  top: 90px;
+  left: 40px;
+  width: 205px;
+}
+#ctaBox {
+  opacity: 0;
+  top: 166px;
+  left: 84px;
+}
+#ctaBox #ctaBtn {
+  width: 130px;
+} */
